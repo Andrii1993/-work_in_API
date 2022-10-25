@@ -1,7 +1,7 @@
-import VisitCardiologist from "./Visit/Cardiologist.js";
-import VisitDentist from "./Visit/Dentist.js";
-import VisitTherapist from "./Visit/Therapist.js";
-import { Visit } from "./Visit/index.js";
+import VisitCardiologist from "./visit/Cardiologist.js";
+import VisitDentist from "./visit/Dentist.js";
+import VisitTherapist from "./visit/Therapist.js";
+import { Visit } from "./visit/index.js";
 import Authorization from "./ajax/Authorization.js";
 import API from "./ajax/API.js";
 
